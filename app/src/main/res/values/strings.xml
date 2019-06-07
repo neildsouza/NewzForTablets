@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Newz For Tablets</string>
+
+    <string name="add_rss_feed">ADD RSS FEED</string>
+
+    <string name="rss_feed_dialog_title">Add RSS Feed</string>
+    <string name="rss_feed_dialog_ok_button">OK</string>
+    <string name="channel_edit_text_hint">Title</string>
+    <string name="url_edit_text_hint">URL</string>
+</resources>
